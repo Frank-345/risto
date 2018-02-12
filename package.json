@@ -1,0 +1,24 @@
+{
+  "name": "risto",
+  "version": "1.0.5",
+  "description": "A functions package that simulates restaurant orders",
+  "main": "index.js",
+  "scripts": {
+      "test": "mocha",
+      "start": "node app"
+  },
+  "keywords": [
+    "risto",
+    "dishes",
+    "orders",
+    "order"
+  ],
+  "author": "Francesco Coniglione <francescoconiglione4@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^5.0.0"
+  },
+  "dependencies": {
+    "supertest": "^3.0.0"
+  }
+}
